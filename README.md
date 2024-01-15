@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Dilli Dining Frontend
+This Repository contains the client side code for Dilli Dining Application.
 
-Currently, two official plugins are available:
+## Backend URL:
+https://github.com/pranav043/dilli-dining-backend
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run Following commands to run this project-
+
+```bash
+  git clone https://github.com/pranav043/dilli-dining-frontend.git
+  cd dilli-dining-frontend
+  npm install
+  npm start
+```
+    
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VITE_SERVER_URL`: "SERVER SIDE DEPLOYED URL"
