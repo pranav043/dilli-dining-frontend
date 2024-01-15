@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "Quality Ingredients",
+          "description": "Elevate your dining with our commitment to premium, fresh, and locally sourced ingredients."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "Culinary Expertise",
+          "description": "Indulge in expertly crafted dishes, a result of our chefs' mastery in blending flavors."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "Exceptional Service",
+          "description": "Immerse yourself in unparalleled hospitality, where every visit is a memorable experience."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./food_shahi_paneer.jpg",
+          "title": "SHAHI PANEER",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./food_pav_bhaji.jpg",
+          "title": "PAV BHAJI",
+          "category": "Snack"
+        },
+        {
+          "id": 3,
+          "image": "./food_chole.jpg",
+          "title": "CHOLE BHATURE",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./food_rajma_rice.jpg",
+          "title": "RAJMA RICE",
+          "category": "Lunch"
+        },
+        {
+          "id": 5,
+          "image": "./food_dosa.jpg",
+          "title": "MASALA DOSA",
+          "category": "Breakfast"
+        },
+        {
+          "id": 6,
+          "image": "./food_pasta.jpg",
+          "title": "ALFREDO PASTA",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./food_pizza.jpg",
+          "title": "CHEEZY PIZZA",
+          "category": "Lunch"
+        },
+        {
+          "id": 8,
+          "image": "./food_rasmalai.jpeg",
+          "title": "RASMALAI",
+          "category": "Dessert"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_shiwank.png",
+          "name": "SHIWANK PATHAK",
+          "designation": "Head Chef",
+          "link": "https://www.linkedin.com/in/shiwankpathak12/"
+        },
+        {
+          "id": 2,
+          "image": "./team_sumit.png",
+          "name": "SUMIT KATYAL",
+          "designation": "Continental Chef",
+          "link": "https://www.linkedin.com/in/sumit-k-ab8664167/"
+        },
+        {
+          "id": 3,
+          "image": "./team_vipul.png",
+          "name": "VIPUL SEHGAL",
+          "designation": "Fast Food Chef",
+          "link": "https://www.linkedin.com/in/vipulsehgal99/"
+        },
+        {
+          "id": 4,
+          "image": "./team_rishabh.png",
+          "name": "RISHABH SINGH",
+          "designation": "South Indian Chef",
+          "link": "https://www.linkedin.com/in/rishabh-singh-07025318b/"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "3",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "5",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "25",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "101",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
