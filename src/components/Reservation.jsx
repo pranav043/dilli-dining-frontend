@@ -17,7 +17,7 @@ const Reservation = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        `${import.meta.env.VITE_SERVER_URL}/api/v1/reservation/send`,
+        import.meta.env.VITE_SERVER_RES_URL,
         { firstName, lastName, email, phone, date, time },
         {
           headers: {
